@@ -1,0 +1,63 @@
+<!-- wp:themeisle-blocks/advanced-columns {"id":"wp-block-themeisle-blocks-advanced-columns-36e48672","columns":1,"layout":"equal","padding":{"top":"80px","bottom":"80px","left":"120px","right":"120px"},"paddingTablet":{"top":null,"bottom":null,"left":null,"right":null},"paddingMobile":{"top":null,"bottom":null,"left":null,"right":null},"margin":{"top":"0px","bottom":"0px"},"marginTablet":{"top":null,"bottom":null},"marginMobile":{"top":null,"bottom":null},"columnsWidth":1140,"horizontalAlign":"center","columnsHeight":"custom","columnsHeightCustom":400,"columnsHeightCustomMobile":350,"verticalAlign":"center","backgroundType":"image","backgroundImage":{"id":299,"url":"http://threadflip.org/wp-content/uploads/2020/10/neve-bg-1.png"},"backgroundPosition":{"x":"0.50","y":"0.50"},"backgroundRepeat":"no-repeat","backgroundSize":"cover","backgroundOverlayOpacity":0,"backgroundOverlayPosition":{"x":"0.00","y":"0.00"},"border":{"top":"0px","bottom":"0px","left":"0px","right":"0px"},"borderColor":"#000000","borderRadius":{"top":"0px","bottom":"0px","left":"0px","right":"0px"},"dividerTopWidth":100,"dividerTopWidthTablet":100,"dividerTopWidthMobile":100,"dividerTopHeight":100,"dividerTopHeightTablet":100,"dividerTopHeightMobile":100,"dividerBottomWidth":100,"dividerBottomWidthTablet":100,"dividerBottomWidthMobile":100,"dividerBottomHeight":100,"dividerBottomHeightTablet":100,"dividerBottomHeightMobile":100,"align":"full","className":"","hasCustomCSS":true} -->
+<div id="wp-block-themeisle-blocks-advanced-columns-36e48672" class="wp-block-themeisle-blocks-advanced-columns alignfull has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-vertical-center"><div class="wp-block-themeisle-blocks-advanced-columns-overlay"></div><div class="innerblocks-wrap"><!-- wp:themeisle-blocks/advanced-column {"id":"wp-block-themeisle-blocks-advanced-column-adc65de0","padding":{"top":"20px","bottom":"20px","left":"20px","right":"20px"},"paddingTablet":{"top":null,"bottom":null,"left":null,"right":null},"paddingMobile":{"top":"0px","bottom":"0px","left":"0px","right":"0px"},"margin":{"top":"20px","bottom":"20px","left":"0px","right":"0px"},"marginTablet":{"top":null,"bottom":null,"left":null,"right":null},"marginMobile":{"top":"0px","bottom":"0px","left":"0px","right":"0px"},"backgroundPosition":{"x":"0.00","y":"0.00"},"border":{"top":"0px","bottom":"0px","left":"0px","right":"0px"},"borderColor":"#000000","borderRadius":{"top":"0px","bottom":"0px","left":"0px","right":"0px"},"columnWidth":"100","className":""} -->
+<div id="wp-block-themeisle-blocks-advanced-column-adc65de0" class="wp-block-themeisle-blocks-advanced-column"><!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":30}},"textColor":"white"} -->
+<h2 class="wp-block-heading has-text-align-center has-white-color has-text-color" style="font-size:30px">CONTACT</h2>
+<!-- /wp:heading -->
+
+<!-- wp:themeisle-blocks/advanced-heading {"id":"wp-block-themeisle-blocks-advanced-heading-115927a2","tag":"p","align":"center","headingColor":"#ffffff","fontSize":16,"fontFamily":"Volkhov","fontVariant":"normal","fontStyle":"italic","className":"","hasCustomCSS":true} -->
+<p id="wp-block-themeisle-blocks-advanced-heading-115927a2" class="wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-115927a2">Reach out to the support team at Thread Flip!<br>Whether you've got questions, comments, or concerns feel free <br>to send a message our way and we'll get back to you shortly.</p>
+<!-- /wp:themeisle-blocks/advanced-heading --></div>
+<!-- /wp:themeisle-blocks/advanced-column --></div></div>
+<!-- /wp:themeisle-blocks/advanced-columns -->
+
+<!-- wp:themeisle-blocks/advanced-columns {"id":"wp-block-themeisle-blocks-advanced-columns-045ac48f","columns":1,"layout":"equal","layoutMobile":"collapsedRows","padding":{"top":"100px","bottom":"80px","left":"20px","right":"20px"},"paddingTablet":{"top":null,"bottom":null,"left":null,"right":null},"paddingMobile":{"top":null,"bottom":null,"left":null,"right":null},"margin":{"top":"0px","bottom":"0px"},"marginTablet":{"top":null,"bottom":null},"marginMobile":{"top":null,"bottom":null},"columnsWidth":1140,"horizontalAlign":"center","backgroundPosition":{"x":"0.00","y":"0.00"},"backgroundOverlayPosition":{"x":"0.00","y":"0.00"},"border":{"top":"0px","bottom":"0px","left":"0px","right":"0px"},"borderColor":"#000000","borderRadius":{"top":"0px","bottom":"0px","left":"0px","right":"0px"},"dividerTopWidth":100,"dividerTopWidthTablet":100,"dividerTopWidthMobile":100,"dividerTopHeight":100,"dividerTopHeightTablet":100,"dividerTopHeightMobile":100,"dividerBottomWidth":100,"dividerBottomWidthTablet":100,"dividerBottomWidthMobile":100,"dividerBottomHeight":100,"dividerBottomHeightTablet":100,"dividerBottomHeightMobile":100,"align":"full","className":""} -->
+<div id="wp-block-themeisle-blocks-advanced-columns-045ac48f" class="wp-block-themeisle-blocks-advanced-columns alignfull has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-collapsedRows-layout has-vertical-unset"><div class="wp-block-themeisle-blocks-advanced-columns-overlay"></div><div class="innerblocks-wrap"><!-- wp:themeisle-blocks/advanced-column {"id":"wp-block-themeisle-blocks-advanced-column-49362605","padding":{"top":"20px","bottom":"20px","left":"20px","right":"20px"},"paddingTablet":{"top":null,"bottom":null,"left":null,"right":null},"paddingMobile":{"top":"0px","bottom":"0px","left":"0px","right":"0px"},"margin":{"top":"20px","bottom":"20px","left":"0px","right":"0px"},"marginTablet":{"top":null,"bottom":null,"left":null,"right":null},"marginMobile":{"top":"0px","bottom":"0px","left":"0px","right":"0px"},"backgroundPosition":{"x":"0.00","y":"0.00"},"border":{"top":"0px","bottom":"0px","left":"0px","right":"0px"},"borderColor":"#000000","borderRadius":{"top":"0px","bottom":"0px","left":"0px","right":"0px"},"columnWidth":"100","className":""} -->
+<div id="wp-block-themeisle-blocks-advanced-column-49362605" class="wp-block-themeisle-blocks-advanced-column"><!-- wp:themeisle-blocks/advanced-heading {"id":"wp-block-themeisle-blocks-advanced-heading-697d504c","tag":"h6","headingColor":"#666666","fontFamily":"Open Sans","fontVariant":"700","marginBottom":5,"className":""} -->
+<h6 id="wp-block-themeisle-blocks-advanced-heading-697d504c" class="wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-697d504c">Join our community</h6>
+<!-- /wp:themeisle-blocks/advanced-heading -->
+
+<!-- wp:themeisle-blocks/button-group {"id":"wp-block-themeisle-blocks-button-group-eea5f4db","spacing":4,"paddingTopBottom":4,"paddingLeftRight":6,"fontSize":12} -->
+<div id="wp-block-themeisle-blocks-button-group-eea5f4db" class="wp-block-themeisle-blocks-button-group wp-block-buttons"><!-- wp:themeisle-blocks/button {"id":"wp-block-themeisle-blocks-button-711217a9","background":"#3b5998","borderRadius":100,"iconType":"only","prefix":"fab","icon":"facebook-f"} -->
+<div id="wp-block-themeisle-blocks-button-711217a9" class="wp-block-themeisle-blocks-button wp-block-button"><a target="_self" rel="noopener noreferrer" class="wp-block-button__link"><i class="fab fa-fw fa-facebook-f"></i></a></div>
+<!-- /wp:themeisle-blocks/button -->
+
+<!-- wp:themeisle-blocks/button {"id":"wp-block-themeisle-blocks-button-09879892","background":"#1da1f2","borderRadius":99,"iconType":"only","prefix":"fab","icon":"twitter"} -->
+<div id="wp-block-themeisle-blocks-button-09879892" class="wp-block-themeisle-blocks-button wp-block-button"><a target="_self" rel="noopener noreferrer" class="wp-block-button__link"><i class="fab fa-fw fa-twitter"></i></a></div>
+<!-- /wp:themeisle-blocks/button -->
+
+<!-- wp:themeisle-blocks/button {"id":"wp-block-themeisle-blocks-button-30cd62ce","background":"#dd4b39","borderRadius":100,"iconType":"only","prefix":"fab","icon":"google-plus-g"} -->
+<div id="wp-block-themeisle-blocks-button-30cd62ce" class="wp-block-themeisle-blocks-button wp-block-button"><a target="_self" rel="noopener noreferrer" class="wp-block-button__link"><i class="fab fa-fw fa-google-plus-g"></i></a></div>
+<!-- /wp:themeisle-blocks/button --></div>
+<!-- /wp:themeisle-blocks/button-group --></div>
+<!-- /wp:themeisle-blocks/advanced-column --></div></div>
+<!-- /wp:themeisle-blocks/advanced-columns -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Feel free to contact us at:</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>Rohan</strong> rohantaneja2@my.unt.edu</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Zach</strong>: zacharymarcotte@my.unt.edu</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Jeremy: </strong>JeremyChan@my.unt.edu</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Abdullah:</strong> AbdullahAlAbdullRazzaq@my.unt.edu</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Fiho:</strong> Fiholee@my.unt.edu</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Nathan:</strong> NathanKim2@my.unt.edu<br></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
