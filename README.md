@@ -2,10 +2,18 @@
 E-Commerce project
 
 Contribution:
+
 -Page creation
-   -Page layouts
-   -Page contents
+ 
+---Page layouts
+   
+---Page contents
+   
+
 -User registration
-   -Password requirements
+   
+---Password requirements
+
 -Shopping cart
-   -Shopping cart redirect
+   
+---Shopping cart redirect
